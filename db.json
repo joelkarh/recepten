@@ -4,38 +4,96 @@
             "id": 1,
             "title": "POMPOENPANNEKOEKEN MET SPEK",
             "description": "lunch recept",
-            "image": "/assets/pannekoek.jpeg"
+            "image": "/assets/pannekoek.jpeg",
+            "ingredients": [
+                "pompoenblokjes",
+                "ontbijtspek",
+                "ongezouten, ongebrande pecannoten",
+                "halfvolle melk",
+                "Blue Band Iedere dag",
+                "schenkstroop",
+                "creme fraiche"
+
+            ]
         },
         {
             "id": 2,
             "title": "CAKELET",
             "description": "lunch recept",
-            "image": "./assets/cakelet.jpeg"
+            "image": "./assets/cakelet.jpeg",
+            "ingredients": [
+                "grote eieren",
+                "zelfrijzend bakmeel",
+                "zout"
+            ]
         },
         {
             "id": 3,
             "title": "GRIEKSE SALEDE MET KIP",
             "description": "lunch recept",
-            "image": "./assets/grieksesaldade.jpeg"
+            "image": "./assets/grieksesaldade.jpeg",
+            "ingredients": [
+                "feta",
+                "2 tomaten",
+                "1 rode ui",
+                "1 komkommer",
+                "100 gr gerookte kip",
+                "1 tl oregano",
+                "2 el olijfolie",
+                "75 gr sla melange"
+            ]
         }
     ],
+
     "evends": [{
             "id": 4,
-            "title": "WRAPS MET AARDAPPEL EN BACON",
+            "title": "BROODJE KIP AVOCADO",
             "description": "lunch recept",
-            "image": "./assets/aardappel_met_bacon.jpeg"
+            "image": "./assets/avocadokip.jpeg",
+            "ingredients": [
+                "4 afbakbroodjes",
+                "1 avocado",
+                "450 gr kippendijfilet reepjes",
+                "3 el mayonaise",
+                "1 el mosterd",
+                "50 gr veldsla",
+                "snuf zout en peper"
+            ]
         },
         {
             "id": 5,
-            "title": "BROODJE KIP AVOCADO",
+            "title": "WRAPS MET AARDAPPEL EN BACON",
             "description": "lunch recept",
-            "image": "./assets/avocadokip.jpeg"
+            "image":"./assets/aardappel_met_bacon.jpeg" ,
+            "ingredients": [
+                "4 wraps",
+                "400 gr aardappels",
+                "1 paprika",
+                "4 plakjes bacon",
+                "4 eieren",
+                "scheutje melk",
+                "1 tl paprikapoeder",
+                "1 tl peterselie",
+                "25 gr rucola",
+                "geraspte kaas",
+                "zout en peper"
+            ]
         },
         {
             "id": 6,
             "title": "CLUB SANDWICH MET TONIJN",
             "description": "lunch recept",
-            "image": "./assets/clubsandwich_vitello_tonato.jpeg"
+            "image": "./assets/clubsandwich_vitello_tonato.jpeg",
+            "ingredients": [
+                "6 boterhammen",
+                "2 eieren",
+                "1 blikje tonijn",
+                "150 gr Hüttenkäse",
+                "4 augurkjes",
+                "peper",
+                "bieslook",
+                "botersla"
+            ]
         }
     ]
 }
