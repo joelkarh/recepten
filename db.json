@@ -1,0 +1,41 @@
+{
+
+    "events": [{
+            "id": 1,
+            "title": "POMPOENPANNEKOEKEN MET SPEK",
+            "description": "lunch recept",
+            "image": "/assets/pannekoek.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "CAKELET",
+            "description": "lunch recept",
+            "image": "./assets/cakelet.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "GRIEKSE SALEDE MET KIP",
+            "description": "lunch recept",
+            "image": "./assets/grieksesaldade.jpeg"
+        }
+    ],
+    "evends": [{
+            "id": 4,
+            "title": "WRAPS MET AARDAPPEL EN BACON",
+            "description": "lunch recept",
+            "image": "./assets/aardappel_met_bacon.jpeg"
+        },
+        {
+            "id": 5,
+            "title": "BROODJE KIP AVOCADO",
+            "description": "lunch recept",
+            "image": "./assets/avocadokip.jpeg"
+        },
+        {
+            "id": 6,
+            "title": "CLUB SANDWICH MET TONIJN",
+            "description": "lunch recept",
+            "image": "./assets/clubsandwich_vitello_tonato.jpeg"
+        }
+    ]
+}
